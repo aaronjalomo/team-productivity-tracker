@@ -1,6 +1,6 @@
 # Team Productivity Tracker
 
-This project simulates a professional Git and GitHub workflow in a team environment.
+This project demonstrates a professional Git and GitHub workflow in a team environment.
 
 ## Goal
 Demonstrate:
