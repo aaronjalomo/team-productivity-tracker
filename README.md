@@ -1,6 +1,7 @@
 # Team Productivity Tracker
 
-This project showcases how Git and GitHub are used in real-world collaboration. 
+This project demonstrates how Git and GitHub are used in real-world team collaboration.
+
 
 ## Goal
 Demonstrate:
